@@ -1,7 +1,7 @@
 <?php 
 
 // token maydoni
-define('bot_token','tokeningizni_shu_yerga_yozing');
+define('bot_token','832354568:AAF-0KaBTXkrQF7eY18Bk5_jOTxK8usfpDk');
 
     function xabarYubor(array $content)
     {
