@@ -4,7 +4,7 @@
 * Author => Ehsan Noureddini
 * Email => me@ehsann.info
 */
-define('API_KEY', API_KEY);
+define('API_KEY', '832354568:AAF-0KaBTXkrQF7eY18Bk5_jOTxK8usfpDk');
 define('WELCOME_MSG',"
 این ربات به شما این اجازه را می دهد که بتوانید پست هایی با دکمه لایک زیر آن ، ایجاد نمایید.
 ➖➖➖➖➖➖➖➖➖➖
