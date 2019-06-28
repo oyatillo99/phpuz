@@ -197,3 +197,4 @@ if($text1=="/chuser"){
     'text'=>"Barcha kanallar useri: $chus \n\nBarcha kanallar:$son ta",
 ]);
 }
+?>
